@@ -1,0 +1,7 @@
+appdirs==1.4.4
+loguru==0.6.0
+lxml==5.2.2
+notify_py==0.3.43
+packaging==24.1
+pyshark==0.6
+termcolor==2.4.0
